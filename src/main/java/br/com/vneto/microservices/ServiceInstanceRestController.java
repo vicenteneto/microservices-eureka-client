@@ -1,4 +1,4 @@
-package br.com.vneto;
+package br.com.vneto.microservices;
 
 import java.util.List;
 
